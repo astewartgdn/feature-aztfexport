@@ -1,0 +1,9 @@
+{
+    "name": "Azure Terraform Export",
+    "id": "aztfexport",
+    "version": "1.0.0",
+    "description": "Azure Terraform Export feature",
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/azure-cli:"
+    ]
+}
